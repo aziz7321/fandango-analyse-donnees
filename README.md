@@ -59,7 +59,7 @@ Ce projet démontre une corrélation entre l'intérêt commercial et la présent
    ``` bash
    jupyter notebook notebooks/Projet_Python.ipynb
 
-**📁 Structure du Projet**
+## 📁 Structure du Projet 
   ### text
   ### ├── data/               # Données brutes CSV
   ### ├── notebooks/          # Notebook Jupyter d'analyse
@@ -68,9 +68,9 @@ Ce projet démontre une corrélation entre l'intérêt commercial et la présent
   ### ├── requirements.txt    # Dépendances Python
   ### └── README.md           # Documentation du projet
 
-**👤 Auteur**
+## 👤 Auteur
  ### Abdoulaziz Keita - GitHub
 
-**📚 Sources**
+## 📚 Sources
  ### https://fivethirtyeight.com/features/fandango-movies-ratings/ #Enquête originale de FiveThirtyEight
  ### https://github.com/fivethirtyeight/data/tree/master/fandango  #Données utilisées
