@@ -69,7 +69,7 @@ text
 └── README.md           # Documentation du projet
 
 **👤 Auteur**
-Aziz7321 - GitHub
+Abdoulaziz Keita - GitHub
 
 **📚 Sources**
 https://fivethirtyeight.com/features/fandango-movies-ratings/ #Enquête originale de FiveThirtyEight
