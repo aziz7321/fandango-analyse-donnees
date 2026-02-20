@@ -4,6 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-3776AB?logo=python)
+[![Nbviewer](https://img.shields.io/badge/View%20in-nbviewer-orange)](https://nbviewer.org/github/aziz7321/fandango-analyse-donnees/blob/main/notebooks/Projet_Python.ipynb)
 
 ## 📝 Contexte
 
